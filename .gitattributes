@@ -1,3 +1,4 @@
 # merge=union strategy for changelog
 # http://krlmlr.github.io/using-gitattributes-to-avoid-merge-conflicts/
 /names.txt merge=union
+/README.md merge=union
